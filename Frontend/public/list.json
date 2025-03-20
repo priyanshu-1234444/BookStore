@@ -1,0 +1,108 @@
+[
+    {
+      "name": "The Great Gatsby",
+      "price": 10.99,
+      "category": "Fiction",
+      "image": "gatsby.jpg",
+      "title": "Classic Novel"
+    },
+    {
+      "name": "Introduction to Algorithms",
+      "price": 79.50,
+      "category": "Education",
+      "image": "algorithms.jpg",
+      "title": "Computer Science"
+    },
+    {
+      "name": "The Art of War",
+      "price": 12.00,
+      "category": "Philosophy",
+      "image": "artofwar.jpg",
+      "title": "Ancient Strategy"
+    },
+    {
+      "name": "Cooking Made Simple",
+      "price": 25.00,
+      "category": "Cooking",
+      "image": "cooking.jpg",
+      "title": "Recipe Book"
+    },
+    {
+      "name": "Space Exploration",
+      "price": 40.00,
+      "category": "Science",
+      "image": "space.jpg",
+      "title": "Astronomy Guide"
+    },
+    {
+      "name": "The Silent Patient",
+      "price": 15.99,
+      "category": "Thriller",
+      "image": "silentpatient.jpg",
+      "title": "Psychological Thriller"
+    },
+    {
+      "name": "Python Crash Course",
+      "price": 45.00,
+      "category": "Programming",
+      "image": "pythoncrash.jpg",
+      "title": "Coding Guide"
+    },
+    {
+      "name": "World History Encyclopedia",
+      "price": 60.00,
+      "category": "History",
+      "image": "worldhistory.jpg",
+      "title": "Historical Reference"
+    },
+    {
+      "name": "The Power of Habit",
+      "price": 20.00,
+      "category": "Self-Help",
+      "image": "powerofhabit.jpg",
+      "title": "Behavioral Science"
+    },
+    {
+      "name": "Art for Beginners",
+      "price": 30.00,
+      "category": "Art",
+      "image": "artforbeginners.jpg",
+      "title": "Creative Learning"
+    },
+    {
+      "name": "Quantum Physics Simplified",
+      "price": 50.00,
+      "category": "Science",
+      "image": "quantumphysics.jpg",
+      "title": "Physics Guide"
+    },
+    {
+      "name": "Mastering Chess",
+      "price": 35.00,
+      "category": "Games",
+      "image": "chessmaster.jpg",
+      "title": "Chess Strategy"
+    },
+    {
+      "name": "The Adventures of Sherlock Holmes",
+      "price": 14.99,
+      "category": "Mystery",
+      "image": "sherlockholmes.jpg",
+      "title": "Detective Stories"
+    },
+    {
+      "name": "Machine Learning with Python",
+      "price": 55.00,
+      "category": "Technology",
+      "image": "mlwithpython.jpg",
+      "title": "Tech Insights"
+    },
+    {
+      "name": "Meditation for Beginners",
+      "price": 18.00,
+      "category": "Wellness",
+      "image": "meditation.jpg",
+      "title": "Mindfulness Guide"
+    }
+  ]
+  
